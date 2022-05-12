@@ -30,4 +30,4 @@ On my free time, I build [HermesChat](https://hermeschat.com.br), which is a API
 
 ## Curiosities about me
 
-- I started with coding using **Java**, trying to build mods for Minecraft, then me and a cousing started building a Minecraft server, i switched to web development to take care of the server website;
+- I started with coding using **Java**, trying to build mods for Minecraft, then me and a cousin started building a Minecraft server, i switched to web development to take care of the server website;
