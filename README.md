@@ -13,5 +13,3 @@
 ## Hello there
 
 My name Arthur Emanuel. I currently live in Goiás, Brazil and study computer science at Universidade Federal de Goiás.
-
-On my free time, I build [HermesChat](https://hermeschat.com.br), which is a API for sending messages through various channels and in the future will be a chatbot building platform for those channels
